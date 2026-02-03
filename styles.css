@@ -13,17 +13,15 @@
 
 body {
     margin: 0;
-    background:
+    /* background:
         radial-gradient(900px 500px at 20% 0%, rgba(255, 45, 85, 0.08), transparent 60%),
         radial-gradient(700px 400px at 80% 30%, rgba(255, 214, 231, 0.6), transparent 55%),
-        #ffffff;
-    /* background:
-  linear-gradient(
-    180deg,
-    rgba(255, 214, 231, 0.5),
-    rgba(255, 255, 255, 0.9)
-  );
-*/
+        #ffffff; */
+    background:
+        linear-gradient(180deg,
+            rgba(255, 214, 231, 0.5),
+            rgba(255, 255, 255, 0.9));
+
 
     color: var(--text);
     font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display",
