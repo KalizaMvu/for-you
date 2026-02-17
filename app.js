@@ -60,11 +60,11 @@ const responseText = document.getElementById("responseText");
 
 if (yesBtn && noBtn && responseText) {
     yesBtn.addEventListener("click", () => {
-        responseText.textContent = "Okay… you just made me really happy 🩷";
+        responseText.textContent = "I’m so in love with you too… get it? 🩷";
     });
 
     noBtn.addEventListener("click", () => {
-        responseText.textContent = "That’s okay. I’m still really glad it’s you.";
+        responseText.textContent = "Oh okay… cuz she gon call me baby boo.";
     });
 }
 
